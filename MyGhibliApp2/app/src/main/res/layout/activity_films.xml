@@ -7,7 +7,7 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/back_button"
+        android:id="@+id/back_button_films"
         android:layout_width="74dp"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
